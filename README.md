@@ -225,4 +225,4 @@ I'm building an all-in-one healthcare bot that can track your mood, manage your 
 
 ---
 
-*Last updated: [Current Date] | Proudly created with ❤️ and [GPRM](https://gprm.itsvg.in)*
+
