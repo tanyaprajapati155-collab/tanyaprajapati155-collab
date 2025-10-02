@@ -6,7 +6,7 @@
 
 ## 💫 About Me
 
-I'm a passionate **Data Science student** pursuing BCA with a specialization in Data Science, currently building innovative AI-powered healthcare solutions. My journey combines technical expertise with a deep understanding of healthcare analytics and user experience design.
+I'm a passionate **Data Science student** pursuing Bacheclor's with a specialization in Data Science, currently building innovative AI-powered healthcare solutions. My journey combines technical expertise with a deep understanding of healthcare analytics and user experience design.
 
 ### 🔨 Currently Working On
 **Healthcare Bot with AI Capabilities** - A comprehensive health assistant featuring:
